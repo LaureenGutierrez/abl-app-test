@@ -35,7 +35,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 - Implement axios or another rest client.
 - Testing for service.
 - Testing for viewModel, I tryed but I need more time to mock the services calls.
-- In other word test for all files. Al the time try to coverage the 100%. For Upgrade the testing is our best friend.
+- In other word test for all files. Al the time try to coverage the 100%. For Library Upgrades the testing is our best friend.
 - Install any intenational library.
 - Create a css for each component.
 - Install Lint for the project.
